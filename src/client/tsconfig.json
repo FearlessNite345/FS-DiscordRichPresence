@@ -1,0 +1,28 @@
+{
+    "compilerOptions": {
+        "baseUrl": ".",
+        "noImplicitAny": true,
+        "module": "commonjs",
+        "target": "es2021",
+        "paths": {
+            "@/*": [
+                "../*"
+            ]
+        },
+        "lib": [
+            "es2021"
+        ],
+        "types": [
+            "@citizenfx/client",
+            "@whitigol/fivem-utils"
+        ],
+        "moduleResolution": "node",
+        "resolveJsonModule": true,
+        "esModuleInterop": true,
+        "noEmit": true
+    },
+    "include": [
+        "./",
+        "../common"
+    ]
+}

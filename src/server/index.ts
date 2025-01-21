@@ -1,0 +1,1 @@
+exports['FS-Lib'].VersionCheck('FS-DiscordRichPresence', 'fearlessnite345/FS-DiscordRichPresence')
