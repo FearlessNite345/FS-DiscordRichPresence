@@ -3,7 +3,7 @@ game 'gta5'
 
 author 'FearlessStudios'
 description 'FS-DiscordRichPresence by FearlessStudios'
-version '1.0.0'
+version '1.0.1'
 
 client_script 'dist/client/**/*.js'
 server_script 'dist/server/**/*.js'

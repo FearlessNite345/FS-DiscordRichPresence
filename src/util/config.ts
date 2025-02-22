@@ -8,7 +8,8 @@ export interface Config {
 	buttonText: string,
 	richPresenceLogoName: string,
 	smallRichPresenceLogoName: string,
-	updateRate: number
+	serverNameAbbr: string,
+	updateRateInSeconds: number
 }
 
 // Export so it can be accessed from any other file.

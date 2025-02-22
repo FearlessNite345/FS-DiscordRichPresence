@@ -4,5 +4,6 @@
     "buttonText": "",
     "richPresenceLogoName": "",
     "smallRichPresenceLogoName": "",
-    "updateRate": 60000
+    "serverNameAbbr": "",
+    "updateRateInSeconds": 60
 }
